@@ -1,0 +1,2 @@
+class RecipePoro
+end
