@@ -10,9 +10,12 @@ RSpec.describe 'Recipe Service' do
         results = RecipeService.get_recipe_by_country(params)
         expect(results).to be_a(Hash)
         expect(results).to have_key(:hits)
-        
+
         results[:hits].map do |result|
           expect(result).to have_key(:recipe)
+            expect(result[:recipe]).to have_key(:label)
+            expect(result[:recipe]).to have_key(:image)
+            expect(result[:recipe]).to have_key(:url)
         end
     end
 end
