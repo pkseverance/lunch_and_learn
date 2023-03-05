@@ -1,9 +1,6 @@
 class Api::V1::RecipesController < ApplicationController
-  def index
-
-  end
-
-  def show
-
+  def search
+    response = RecipeFacade.search_recipes(params[:country])
+    render json: RecipeSerializer.new(response)
   end
 end
