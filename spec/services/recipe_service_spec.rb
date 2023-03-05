@@ -14,8 +14,13 @@ RSpec.describe 'Recipe Service' do
         results[:hits].map do |result|
           expect(result).to have_key(:recipe)
             expect(result[:recipe]).to have_key(:label)
+            expect(result[:recipe][:label]).to be_a(String)
+
             expect(result[:recipe]).to have_key(:image)
+            expect(result[:recipe][:image]).to be_a(String)
+
             expect(result[:recipe]).to have_key(:url)
+            expect(result[:recipe][:url]).to be_a(String)
         end
     end
 end
