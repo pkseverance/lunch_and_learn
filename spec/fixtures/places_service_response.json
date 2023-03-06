@@ -1,0 +1,647 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大奥跡",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0001",
+                "district": "Chiyoda",
+                "street": "Shiomizaka Slope",
+                "lon": 139.7553982,
+                "lat": 35.6873627,
+                "formatted": "Site of Ōoku, Shiomizaka Slope, Chiyoda, Chiyoda, 100-0001, Japan",
+                "address_line1": "Site of Ōoku",
+                "address_line2": "Shiomizaka Slope, Chiyoda, Chiyoda, 100-0001, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.sights",
+                    "tourism.sights.ruines"
+                ],
+                "details": [
+                    "details",
+                    "details.historic",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "大奥跡",
+                        "osm_id": 5808073053,
+                        "name:en": "Site of Ōoku",
+                        "name:es": "Sitio de Ōoku",
+                        "name:ja": "大奥跡",
+                        "name:zh": "大奧遺址",
+                        "tourism": "attraction",
+                        "historic": "ruins",
+                        "osm_type": "n",
+                        "wikidata": "Q1064983",
+                        "wikipedia": "ja:大奥",
+                        "historic:civilization": "medieval"
+                    }
+                },
+                "place_id": "51a28ed8382c7861405915dd3d80fbd74140f00103f9015d29305a01000000920309e5a4a7e5a5a5e8b7a1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7553982,
+                    35.68736269970592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "そよ風",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "102-0083",
+                "district": "Kojimachi 2-chome",
+                "suburb": "Kojimachi",
+                "street": "Shinjuku-dori Ave.",
+                "lon": 139.7414333,
+                "lat": 35.6840503,
+                "formatted": "そよ風, Shinjuku-dori Ave., Kojimachi, Chiyoda, 102-0083, Japan",
+                "address_line1": "そよ風",
+                "address_line2": "Shinjuku-dori Ave., Kojimachi, Chiyoda, 102-0083, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "そよ風",
+                        "osm_id": 3949450493,
+                        "tourism": "artwork",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "514bf553d2b977614059fe06d1f58ed74140f00103f901fdd467eb00000000920309e3819de38288e9a2a8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7414333,
+                    35.68405029970562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "標準水準点",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0014",
+                "district": "Nagatacho 1-chome",
+                "street": "Tokyo Metropolitan Route 176",
+                "lon": 139.7478515,
+                "lat": 35.6772124,
+                "formatted": "Japanese Datum of Lebeling, Tokyo Metropolitan Route 176, Nagatacho 1-chome, Chiyoda, 100-0014, Japan",
+                "address_line1": "Japanese Datum of Lebeling",
+                "address_line2": "Tokyo Metropolitan Route 176, Nagatacho 1-chome, Chiyoda, 100-0014, Japan",
+                "categories": [
+                    "man_made",
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.sights"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "標準水準点",
+                        "osm_id": 5439434433,
+                        "name:en": "Japanese Datum of Lebeling",
+                        "tourism": "attraction",
+                        "man_made": "survey_point",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "5177d84466ee77614059de965ae5aed64140f00103f901c12e37440100000092030fe6a899e6ba96e6b0b4e6ba96e782b9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7478515,
+                    35.677212399705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint gobain",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "102-0083",
+                "district": "Hirakawacho 1-chome",
+                "suburb": "Hirakawacho",
+                "street": "Tokyo FM Street",
+                "lon": 139.7400542,
+                "lat": 35.6831197,
+                "formatted": "Saint gobain, Tokyo FM Street, Hirakawacho, Chiyoda, 102-0083, Japan",
+                "address_line1": "Saint gobain",
+                "address_line2": "Tokyo FM Street, Hirakawacho, Chiyoda, 102-0083, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.viewpoint"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Saint gobain",
+                        "osm_id": 5449713526,
+                        "tourism": "viewpoint",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "518f482586ae776140598abe607770d74140f00103f9017607d4440100000092030c5361696e7420676f6261696e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7400542,
+                    35.68311969970553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIGRACION",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "102-0083",
+                "district": "Kojimachi 1-chome",
+                "suburb": "Kojimachi",
+                "street": "Circle 1",
+                "lon": 139.7447322,
+                "lat": 35.6852834,
+                "formatted": "MIGRACION, Circle 1, Kojimachi, Chiyoda, 102-0083, Japan",
+                "address_line1": "MIGRACION",
+                "address_line2": "Circle 1, Kojimachi, Chiyoda, 102-0083, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details",
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "MIGRACION",
+                        "osm_id": 6267046094,
+                        "name:ja": "移住",
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artist_name": "Taller Sebastian",
+                        "artist_name:ja": "セバスティアン"
+                    }
+                },
+                "place_id": "51e5689fd8d477614059271dcf5db7d74140f00103f901ce888b75010000009203094d4947524143494f4e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.74473219999996,
+                    35.68528339970572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "自由の群像",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "102-0083",
+                "district": "Kojimachi 1-chome",
+                "suburb": "Kojimachi",
+                "street": "Circle 1",
+                "lon": 139.7445676,
+                "lat": 35.6845781,
+                "formatted": "Statues of Liberty, Circle 1, Kojimachi, Chiyoda, 102-0083, Japan",
+                "address_line1": "Statues of Liberty",
+                "address_line2": "Circle 1, Kojimachi, Chiyoda, 102-0083, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "自由の群像",
+                        "osm_id": 6267046098,
+                        "name:en": "Statues of Liberty",
+                        "tourism": "artwork",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "5128756e7fd37761405995e55241a0d74140f00103f901d2888b750100000092030fe887aae794b1e381aee7bea4e5838f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.74456759999998,
+                    35.684578099705654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スパイラル・ポイント",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0011",
+                "district": "Uchisaiwaicho 2-chome",
+                "suburb": "Uchisaiwaicho",
+                "street": "Iwaida dori",
+                "lon": 139.7527631,
+                "lat": 35.671342,
+                "formatted": "スパイラル・ポイント, Iwaida dori, Uchisaiwaicho, Chiyoda, 100-0011, Japan",
+                "address_line1": "スパイラル・ポイント",
+                "address_line2": "Iwaida dori, Uchisaiwaicho, Chiyoda, 100-0011, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "スパイラル・ポイント",
+                        "osm_id": 6270669094,
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artist_name": "山本一弥"
+                    }
+                },
+                "place_id": "515704a4a21678614059bb94de88eed54140f00103f90126d1c2750100000092031ee382b9e38391e382a4e383a9e383abe383bbe3839de382a4e383b3e38388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7527631,
+                    35.671341999704474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "102-0092",
+                "district": "Nagatacho 1-chome",
+                "street": "Circle 1",
+                "lon": 139.7451979,
+                "lat": 35.6801114,
+                "formatted": "Circle 1, Nagatacho 1-chome, Chiyoda, 102-0092, Japan",
+                "address_line1": "Circle 1",
+                "address_line2": "Nagatacho 1-chome, Chiyoda, 102-0092, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 3949450530,
+                        "tourism": "artwork",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "51883144a9d87761405978afede30dd74140f00103f90122d567eb00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7451979,
+                    35.680111399705254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gardens Free Guided Tour",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0002",
+                "district": "Marunouchi 1-chome",
+                "street": "Uchibori-dori",
+                "lon": 139.7580866,
+                "lat": 35.6830719,
+                "formatted": "Gardens Free Guided Tour, Uchibori-dori, Marunouchi 1-chome, Chiyoda, 100-0002, Japan",
+                "address_line1": "Gardens Free Guided Tour",
+                "address_line2": "Uchibori-dori, Marunouchi 1-chome, Chiyoda, 100-0002, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4449910691,
+                        "name:en": "Gardens Free Guided Tour",
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "512651d43e4278614059a30667e66ed74140f00103f901a33f3c0901000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7580866,
+                    35.68307189970553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Front of Main Gate of Tokyo Imperial Palace",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0001",
+                "district": "Kokyo Gaien National Garden",
+                "street": "Seimon-seki Bridge",
+                "lon": 139.7555257,
+                "lat": 35.6796712,
+                "formatted": "Front of Main Gate of Tokyo Imperial Palace, Seimon-seki Bridge, Kokyo Gaien National Garden, Chiyoda, 100-0001, Japan",
+                "address_line1": "Front of Main Gate of Tokyo Imperial Palace",
+                "address_line2": "Seimon-seki Bridge, Kokyo Gaien National Garden, Chiyoda, 100-0001, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.viewpoint"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4449920089,
+                        "name:en": "Front of Main Gate of Tokyo Imperial Palace",
+                        "name:zh": "皇居正門前",
+                        "tourism": "viewpoint",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "5133993b442d786140592e624377ffd64140f00103f90159643c0901000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7555257,
+                    35.679671199705226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Front of Nijūbashi",
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0001",
+                "district": "Kokyo Gaien National Garden",
+                "street": "Seimon-seki Bridge",
+                "lon": 139.7546722,
+                "lat": 35.6802604,
+                "formatted": "Front of Nijūbashi, Seimon-seki Bridge, Kokyo Gaien National Garden, Chiyoda, 100-0001, Japan",
+                "address_line1": "Front of Nijūbashi",
+                "address_line2": "Seimon-seki Bridge, Kokyo Gaien National Garden, Chiyoda, 100-0001, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.viewpoint"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4736323978,
+                        "name:en": "Front of Nijūbashi",
+                        "name:es": "Frente de Nijūbashi",
+                        "name:ja": "二重橋前",
+                        "name:zh": "二重橋前",
+                        "tourism": "viewpoint",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "51694650462678614059bfbfd4c512d74140f00103f9018a914e1a01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7546722,
+                    35.68026039970527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "postcode": "100-0001",
+                "district": "Chiyoda",
+                "street": "Shiomizaka Slope",
+                "lon": 139.7568682,
+                "lat": 35.6864538,
+                "formatted": "Shiomizaka Slope, Chiyoda, Chiyoda, 100-0001, Japan",
+                "address_line1": "Shiomizaka Slope",
+                "address_line2": "Chiyoda, Chiyoda, 100-0001, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.viewpoint"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5599977315,
+                        "tourism": "viewpoint",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "513dcca8433878614059caf9d5b7ddd74140f00103f90163dfc84d01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7568682,
+                    35.68645379970583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "hamlet": "霞ヶ関一丁目",
+                "postcode": "100-0013",
+                "district": "Hibiya-Koen",
+                "street": "Kasumigaseki",
+                "lon": 139.7548264,
+                "lat": 35.6733619,
+                "formatted": "Kasumigaseki, Hibiya-Koen, Chiyoda, 100-0013, Japan",
+                "address_line1": "Kasumigaseki",
+                "address_line2": "Hibiya-Koen, Chiyoda, 100-0013, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork",
+                    "tourism.attraction.fountain"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5824886289,
+                        "amenity": "fountain",
+                        "tourism": "artwork",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "510ac5b18927786140594ecd04b930d64140f00103f90111b6305b01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7548264,
+                    35.67336189970466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Japan",
+                "country_code": "jp",
+                "city": "Chiyoda",
+                "hamlet": "霞ヶ関一丁目",
+                "postcode": "100-0013",
+                "suburb": "Kasumigaseki",
+                "street": "Kasumigaseki",
+                "lon": 139.7538182,
+                "lat": 35.6739616,
+                "formatted": "Kasumigaseki, Chiyoda, 100-0013, Japan",
+                "address_line1": "Kasumigaseki",
+                "address_line2": "Chiyoda, 100-0013, Japan",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5965633677,
+                        "tourism": "artwork",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "51268458471f78614059eabeaa5f44d64140f00103f9018d58946301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7538182,
+                    35.6739615997047
+                ]
+            }
+        }
+    ]
+}
