@@ -1,5 +1,5 @@
 class Api::V1::RecipesController < ApplicationController
-  def search
+  def index
     if (params[:country])
       response = RecipeFacade.search_recipes(params[:country])
     else 
