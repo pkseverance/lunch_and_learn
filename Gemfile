@@ -31,6 +31,7 @@ gem 'faraday'
 # gem 'rack-cors'
 
 group :development, :test do
+  gem 'shoulda-matchers'
   gem 'rspec-rails'
   gem 'simplecov'
   gem 'capybara'
