@@ -8,7 +8,6 @@ RSpec.describe 'Country Service' do
   
     results = CountryService.get_countries
     expect(results).to be_an(Array)
-
     results.each do |result|
       expect(result).to have_key(:name)
       expect(result[:name]).to be_a(Hash)

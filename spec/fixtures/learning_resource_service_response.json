@@ -1,0 +1,176 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EF6aSRea3l53jGVfV75Y21bJ6nY",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 66,
+      "resultsPerPage": 5
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "IR6ZiJgEBPcduYxrvG24htl7hwU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dB6Xoemx214"
+          },
+          "snippet": {
+              "publishedAt": "2019-11-28T01:51:42Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of China",
+              "description": "Main Sources: “A Short History of China: From Ancient Dynasties to Economic Powerhouse” (2013) by Gordon Kerr, Pocket ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dB6Xoemx214/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dB6Xoemx214/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dB6Xoemx214/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-11-28T01:51:42Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "K1xUXgpcN1q1fgc9OV5-z_amMsU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw"
+          },
+          "snippet": {
+              "publishedAt": "2017-05-14T04:40:16Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "Mr History",
+              "description": "Hi there, welcome to Mr History! On this channel I'd like to answer the common and uncommon questions people have about ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWU6xPokGS_dswZQpzGMUi08S8Jq2h_HYueYvUuLg=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWU6xPokGS_dswZQpzGMUi08S8Jq2h_HYueYvUuLg=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWU6xPokGS_dswZQpzGMUi08S8Jq2h_HYueYvUuLg=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-05-14T04:40:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "LpCrDNsiwCjfROIRlkg55P4twCo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3VF_tpL3vD4"
+          },
+          "snippet": {
+              "publishedAt": "2022-03-19T05:01:48Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Mongolia",
+              "description": "Pictures Requiring Attribution: Arabsalam: https://commons.wikimedia.org/wiki/File:Kh%C3%B6vsg%C3%B6l_Aimag12.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3VF_tpL3vD4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3VF_tpL3vD4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3VF_tpL3vD4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-19T05:01:48Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "wjgZofod4XHNzPr9CdYyY3Kf_08",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "JS-1d8c5cX4"
+          },
+          "snippet": {
+              "publishedAt": "2019-08-07T18:59:33Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Bhutan",
+              "description": "Source: The History of Bhutan (2013) by Karma Phuntsho, Random House India, Noida. https://www.britannica.com/place/Bhutan ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/JS-1d8c5cX4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/JS-1d8c5cX4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/JS-1d8c5cX4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-07T18:59:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "2JAAP0LPq1OnCHzIUDttb2EkudY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "tXuitkXYIEc"
+          },
+          "snippet": {
+              "publishedAt": "2022-09-26T08:18:27Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Oman",
+              "description": "Pictures Requiring Attribution: GeoTrinity: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tXuitkXYIEc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tXuitkXYIEc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tXuitkXYIEc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-26T08:18:27Z"
+          }
+      }
+  ]
+}

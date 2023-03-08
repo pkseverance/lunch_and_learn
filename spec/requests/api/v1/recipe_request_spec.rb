@@ -28,7 +28,10 @@ RSpec.describe 'Recipe Request' do
 
         expect(recipe[:attributes]).to have_key(:image)
         expect(recipe[:attributes][:image]).to be_a(String)
+
       end
     end
   end
+
+  
 end
